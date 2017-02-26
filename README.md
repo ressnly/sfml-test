@@ -1,2 +1,2 @@
 # sfml-test
-# need add font.ttf to working directory
+Need add font.ttf to working directory
